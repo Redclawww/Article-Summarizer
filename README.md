@@ -1,4 +1,4 @@
-#Article Summarizer
+***Article Summarizer***
 
 This is a website that uses the GPT 4 model from OpenAI to summarize articles. Enter the URL of an article, and the website will generate a concise and informative summary of the article. The summary will be developed in real-time, so you can see it as soon as you submit the article URL.
 
